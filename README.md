@@ -1,0 +1,26 @@
+## Frontend Básico - Laravel 10
+
+- Blade: Overview
+- Blade: Exibindo dados
+- Blade: Diretivas - IF Statements
+- Blade: Diretivas - Switch
+- Blade: Diretivas - Loops
+- Blade: Diretivas - Atributos HTML
+- Blade: Fatiando Layout
+- Blade: Diretivas - Include
+- Blade: Formulários
+- Blade: Criando as próprias diretivas
+- Blade Components: Overview
+- Blade Components: Primeiros passos com Componentes
+- Blade Components: Atributos HTML
+- Blade Components: Slots
+- Blade Components: Acessando Atributos e Slots na classe do Componente
+- Blade Components: Dependências adicionais
+- Blade Components: Layouts usando Section Vs Componentes
+- Compilando assets: Overview
+- Compilando assets: Processamento de URLS e Marcos
+- Compilando assets: Tailwind CSS
+- Compilando assets: Alpine
+- Colocando em prática: Criando componentes base
+- Colocando em prática: Criando Carrossel, infos de produto e ações de produto
+- Colocando em prática: Integrando com AlpineJS
