@@ -1,8 +1,7 @@
 ## Frontend Básico - Laravel 10
 
-- Blade: Overview
-- Blade: Exibindo dados
-- Blade: Diretivas - IF Statements
+- 1: Exibindo dados
+- 2: Diretivas - IF Statements
 - Blade: Diretivas - Switch
 - Blade: Diretivas - Loops
 - Blade: Diretivas - Atributos HTML
